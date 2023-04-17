@@ -1,0 +1,39 @@
+# Compiled Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Clion IDE files
+.idea/
+.cmake/
+cmake-build-*/
+
+# Dependency files
+*.d
+
+# Debug files
+*.pdb
+*.gcno
+*.gcda
+
+# OS or Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.tmp
+*.vimrc~
